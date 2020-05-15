@@ -16,4 +16,5 @@ topics (if time permits).
 3. create and interpret **regression models** (OLS and Logistic) using business data.
 4. perform **time series** and **forecasting analysis** of business data.
 
-# Software : Excel and Palisade's StatTools add-in for Excel.
+# Software : 
+## Excel and Palisade's StatTools add-in for Excel.
