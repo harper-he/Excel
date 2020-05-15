@@ -1,7 +1,7 @@
 # What Impacts Life Expectancy
 
 
-# Data Analysis and Decision Making
+# Data Analysis and Decision Making Course Info
 ## Course Objectives
 The aim of this course is to learn essential concepts of **data analysis**, **probability**,
 and **statistics** necessary to understand and perform analysis of business and economic data.
