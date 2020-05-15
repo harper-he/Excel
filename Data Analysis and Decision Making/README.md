@@ -17,4 +17,4 @@ topics (if time permits).
 4. perform **time series** and **forecasting analysis** of business data.
 
 # Software : 
-## Excel and Palisade's StatTools add-in for Excel.
+Excel and Palisade's StatTools add-in for Excel.
