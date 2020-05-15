@@ -1,7 +1,7 @@
 
 # Course Objectives
-The aim of this course is to learn essential concepts of data analysis, probability,
-and statistics necessary to understand and perform analysis of business and economic data.
+The aim of this course is to learn essential concepts of **data analysis**, **probability**,
+and **statistics** necessary to understand and perform analysis of business and economic data.
 
 # Course Topics: 
 Sample descriptive methods|graphical, tabular, and numerical; correlation and asso-
