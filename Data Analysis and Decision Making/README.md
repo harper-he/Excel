@@ -1,5 +1,5 @@
 # What Affects Life Expectancy
-This is the project of MBC638 Data Analysis and Decision Making course (fall 2018 semester)
+This is the project of [MBC638 Data Analysis and Decision Making course](https://github.com/harper-he/Excel/tree/master/Data%20Analysis%20and%20Decision%20Making#data-analysis-and-decision-making-course-info) (fall 2018 semester)
 ## Project Intro
 This project will help in suggesting a country which area should be given importance in order to improve the life expectancy of its population
 ### Methods Used
