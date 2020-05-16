@@ -14,8 +14,8 @@ This project will help in suggesting a country which area should be given import
 * p-values (these will be discussed later during the semester)
 * Predictions/forecasting
 ### Technologies
-Excel
-StatTools
+* Excel
+* StatTools
 ## Project Description
 THIS PROJECT CONSISTS OF 2 MAIN PARTS
 ### Part A: Descriptive analysis of variables.
